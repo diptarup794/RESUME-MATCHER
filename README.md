@@ -24,4 +24,7 @@ The app will display the top candidates based on the job description.
 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-#
+## Try Out:
+The first version of the website has been deployed using streamlit . Upload a list of applied candidates in the form of a csv file containing the name of the candidate , years of experience , skills and location and wait and see the model filter out top applicants .
+
+#LINK:https://resume-matcher-hajjw2af2dw3skyd8cinqd.streamlit.app
